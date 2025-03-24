@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm @mxnuhyde
+# 👋 Hi there! I'm mxnuhyde
 
 ## 🔐 Ethical Hacker | Penetration Tester | Developer  
 
